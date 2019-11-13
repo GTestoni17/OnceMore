@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054795996993",
+    "firebase_url": "https://oncemore-d01bc.firebaseio.com",
+    "project_id": "oncemore-d01bc",
+    "storage_bucket": "oncemore-d01bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054795996993:android:521f3324deab2faa628bc0",
+        "android_client_info": {
+          "package_name": "br.com.ifood.cursoandroid.ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054795996993-u5bb7m6kl0kocu66rmvjmsq08gefrq8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ifood.cursoandroid.ifood",
+            "certificate_hash": "a49479f9ecae0c3878b545f68e818336ce6ca3dc"
+          }
+        },
+        {
+          "client_id": "1054795996993-r1e8onq89anbvru00oo13ngv6haemve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKTQcZ1Qa_ouRieZ2OyGQE2dZ7lV2v4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054795996993-r1e8onq89anbvru00oo13ngv6haemve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
